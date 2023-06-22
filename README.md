@@ -1,7 +1,7 @@
 # student-information
 
-clone this repository
-run npm install
+clone this repository ,
+run npm install ,
 run npm start
 
 ![image](https://github.com/ImCvu/student-information/assets/112148903/90b33612-9a7e-4cac-9fbe-a640ea9354fe)
